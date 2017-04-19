@@ -24,8 +24,7 @@ During the camp, I will focus on programming number 2. however, If it is possibl
 
 e-mail address: stevekrpark@gmail.com
 
-### Can you find the word "Ticket Monster(티몬)" in the image below?
-### This kind of word is mistakenly uploaded on the wrong website.
+### Legally unverified words such as No.1, healing, diet can not be shown on the shopping website
 
-  ![_001](https://cloud.githubusercontent.com/assets/22289471/25179767/3a718304-2546-11e7-9daf-d50eaa9a948b.png)
+  ![image](https://cloud.githubusercontent.com/assets/22289471/25207003/a0e538fa-25a6-11e7-8bfd-93fec93e44f9.png)
 
