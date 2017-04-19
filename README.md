@@ -23,7 +23,7 @@ The workflow of the idea is the same as below:
 During the camp, I will focus on programming number 2. however, If it is possible, I will keep moving to the next step.
 
 
-## Can you find the word "Ticket Monster(티몬)" in the image below?
+### Can you find the word "Ticket Monster(티몬)" in the image below?
 ### This kind of word is mistakenly uploaded on the wrong website.
 
   ![_001](https://cloud.githubusercontent.com/assets/22289471/25179767/3a718304-2546-11e7-9daf-d50eaa9a948b.png)
