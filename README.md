@@ -22,6 +22,7 @@ The workflow of the idea is the same as below:
 
 During the camp, I will focus on programming number 2. however, If it is possible, I will keep moving to the next step.
 
+e-mail address: stevekrpark@gmail.com
 
 ### Can you find the word "Ticket Monster(티몬)" in the image below?
 ### This kind of word is mistakenly uploaded on the wrong website.
