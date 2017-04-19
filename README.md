@@ -7,6 +7,8 @@ Every page of online shopping malls, which vendors upload to promote and sell th
 In every huge online shopping mall such as Coupang, ebay etc., dozens of people are hired spending a lot of time finding those kinds of words.
 Furthermore, there are so many words are illegal to use that (more than hundreds) workers often miss the words and it causes a legal problem.
 
+can you find the word "Ticket Monster" in Korean?
+![_001](https://cloud.githubusercontent.com/assets/22289471/25179767/3a718304-2546-11e7-9daf-d50eaa9a948b.png)
 
 
 I strongly believe that Tensor Flow works more accurately and rapidly than how the traditional way does.
