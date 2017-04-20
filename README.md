@@ -24,7 +24,6 @@ During the camp, I will focus on programming number 2. however, If it is possibl
 
 e-mail address: stevekrpark@gmail.com
 
-### Legally unverified words such as No.1, healing, diet can not be shown on the shopping website
+### Legally unverified words such as No.1, healing, diet can not be shown on the shopping website.
 
-  ![image](https://cloud.githubusercontent.com/assets/22289471/25207003/a0e538fa-25a6-11e7-8bfd-93fec93e44f9.png)
-
+  ![image](https://cloud.githubusercontent.com/assets/22289471/25207110/3ab43378-25a7-11e7-82fe-51995478e5e0.png)
