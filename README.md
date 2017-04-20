@@ -22,7 +22,7 @@ The workflow of the idea is the same as below:
 
 During the camp, I will focus on programming number 2. however, If it is possible, I will keep moving to the next step.
 
-e-mail address: stevekrpark@gmail.com
+e-mail: stevekrpark@gmail.com
 
 ### Legally unverified words such as No.1, healing and diet etc. can not be shown on the shopping website.
 ### The goal is, by using Tensor Flow, to code the program detecting these words automatically.
