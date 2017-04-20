@@ -17,7 +17,7 @@ The workflow of the idea is the same as below:
 
   1. Vendors upload contents(jpg file)
   2. Tensor model look for any illegal words to delete (This is the goal)
-  3. If any found, Tensor locate and delete them
+  3. If any found, Tensor Flow locates and deletes them
   4. The cleaned contents are saved and uploaded on website
 
 During the camp, I will focus on programming number 2. however, If it is possible, I will keep moving to the next step.
