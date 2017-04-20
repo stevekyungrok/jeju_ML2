@@ -24,7 +24,7 @@ During the camp, I will focus on programming number 2. however, If it is possibl
 
 e-mail address: stevekrpark@gmail.com
 
-### Legally unverified words such as No.1, healing, diet can not be shown on the shopping website.
+### Legally unverified words such as No.1, healing, diet etc. can not be shown on the shopping website.
 ### The goal is, by using Tensor Flow, to code the program detecting these words automatically.
 
   ![image](https://cloud.githubusercontent.com/assets/22289471/25207110/3ab43378-25a7-11e7-82fe-51995478e5e0.png)
